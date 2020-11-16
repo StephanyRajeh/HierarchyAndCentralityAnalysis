@@ -8,7 +8,6 @@ Networks utilized in the study are available at the following links:
 3. Exploratory Social Network AnalysisWith Pajek: http://vlado.fmf.uni-lj.si/pub/networks/data/esna/default.htm
 4. The Koblenz network collection: http://konect.uni-koblenz.de
 <br>
-<br>
 The Schulze voting method is implemented at: https://github.com/sebalis/schulze-method
 <br>
 <br>
