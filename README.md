@@ -9,4 +9,7 @@ Networks utilized in the study are available at the following links:
 4. The Koblenz network collection: http://konect.uni-koblenz.de
 <br>
 <br>
+The Schulze voting method is implemented at: https://github.com/sebalis/schulze-method
+<br>
+<br>
 Support for the paper: Rajeh, S., Savonnet, M., Leclercq, E. and Cherifi, H., 2020. Interplay Between Hierarchy and Centrality in Complex Networks. IEEE Access, 8, pp.129717-129742.
